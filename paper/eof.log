@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.12.23)  26 MAR 2017 23:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.12.23)  26 MAR 2017 23:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -249,35 +249,31 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
-
-]
 
 LaTeX Warning: No \author given.
 
-<figs/arca-arch.jpg, id=7, 722.7pt x 542.025pt>
+<figs/arca-arch.jpg, id=1, 722.7pt x 542.025pt>
 File: figs/arca-arch.jpg Graphic file (type jpg)
  <use figs/arca-arch.jpg>
-Package pdftex.def Info: figs/arca-arch.jpg used on input line 430.
+Package pdftex.def Info: figs/arca-arch.jpg used on input line 431.
 (pdftex.def)             Requested size: 252.94499pt x 189.70331pt.
 
 
-LaTeX Warning: Reference `sec:solution' on page 2 undefined on input line 445.
+LaTeX Warning: Reference `sec:solution' on page 1 undefined on input line 446.
 
 
-LaTeX Warning: Reference `sec:results' on page 2 undefined on input line 446.
+LaTeX Warning: Reference `sec:results' on page 1 undefined on input line 447.
 
 
-LaTeX Warning: Reference `sec:literature' on page 2 undefined on input line 446
+LaTeX Warning: Reference `sec:literature' on page 1 undefined on input line 447
 .
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 474.
+(Font)              <7> on input line 475.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 474.
-[2
+(Font)              <5> on input line 475.
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
 
  <./figs/arca-arch.jpg>]
 Missing character: There is no â in font ptmr7t!
@@ -326,7 +322,7 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no  in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 657--659
+Underfull \hbox (badness 10000) in paragraph at lines 664--666
 []\OT1/ptm/m/n/8 I. Mar-avi[]c, \OT1/ptm/m/it/8 "LTE Sim-u-la-tor source code"\
 OT1/ptm/m/n/8 , ac-cessed from:
  []
@@ -342,7 +338,9 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3] [4] (./eof.aux)
+[2
+
+] [3] (./eof.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -364,10 +362,10 @@ lic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on eof.pdf (4 pages, 163516 bytes).
+Output written on eof.pdf (3 pages, 163150 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
